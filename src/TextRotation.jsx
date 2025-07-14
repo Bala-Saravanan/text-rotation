@@ -14,7 +14,11 @@ export default function TextRotation({ text, radius, fontSize, pathToImg }) {
       >
         <div
           className="logo"
-          style={{ backgroundImage: `url(${pathToImg})` }}
+          style={{
+            backgroundImage: `url(${pathToImg})`,
+            width: `calc(${radius * 2}px - 20px - ${fontSize})`,
+            height: `calc(${radius * 2}px - 20px - ${fontSize})`,
+          }}
         ></div>
         <div
           className="text"

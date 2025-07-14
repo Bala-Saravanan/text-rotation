@@ -1,0 +1,19 @@
+{
+  "name": "@balasaravanan/text-rotation",
+  "version": "1.0.0",
+  "description": "A Modern Text animation for your website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bala-Saravanan/text-rotation.git"
+  },
+  "author": "Bala Saravanan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bala-Saravanan/text-rotation/issues"
+  },
+  "homepage": "https://github.com/Bala-Saravanan/text-rotation#readme"
+}
